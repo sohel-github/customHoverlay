@@ -1,4 +1,13 @@
+Bootstrap Template Maker
+======================================
 http://www.bootply.com/tagged/overlay
 
 
+Angular directive bootstrap
+======================================
 http://angular-ui.github.io/bootstrap
+
+
+Social Login URL:
+=====================================
+http://hybridauth.sourceforge.net
