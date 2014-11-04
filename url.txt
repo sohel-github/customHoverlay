@@ -11,3 +11,9 @@ http://angular-ui.github.io/bootstrap
 Social Login URL:
 =====================================
 http://hybridauth.sourceforge.net
+
+
+
+Jquery Image Zoom Viewer Plugin URL
+=====================================
+http://www.jqueryscript.net/tags.php?/Magnifier/
