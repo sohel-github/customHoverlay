@@ -17,3 +17,15 @@ http://hybridauth.sourceforge.net
 Jquery Image Zoom Viewer Plugin URL
 =====================================
 http://www.jqueryscript.net/tags.php?/Magnifier/
+
+
+
+Bootstrap custom select style URL
+=========================================
+http://gregfranko.com/jquery.selectBoxIt.js/
+
+
+
+
+
+
